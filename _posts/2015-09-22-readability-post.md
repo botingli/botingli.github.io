@@ -6,7 +6,7 @@ tags: [C, Code, Computer Organization, Class]
 image:
   feature: abstract-6.jpg
   credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  background: grey.jpg
 ---
 
 I have learned a lot about how the computer make decisions and discretions with bit-level operations.
