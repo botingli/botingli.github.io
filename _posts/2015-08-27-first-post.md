@@ -16,9 +16,9 @@ Differnent from using blogs provided by other companies, I have absolute freedom
 
 I will update this as a programming blog, and write :
 
-*Things I learned in class
-*Projects I have done. Alone or with others.
-*Other cool things I find.
+* Things I learned in class
+* Projects I have done. Alone or with others.
+* Other cool things I find.
 
 <figure class="half">
 	<img src="/images/Hurry.jpg" alt="">

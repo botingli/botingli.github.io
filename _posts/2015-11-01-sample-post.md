@@ -5,12 +5,12 @@ description: "parallel computing project"
 modified: 2015-11-01
 tags: [C, Parallel Computing, Code, Class]
 image:
-  background: grayCanvas.jpg
+  background: darkGray.jpg
 ---
   I am learning parallel computing this semester, and my project is to find the optimal folution of travelling 
   salesman problem in parallel. Since it is a NP problem, improving the efficiency in algorithm will be extremely hard. In order to increase the performance, we make the computations in parallel. I will demonstrate two ways to implement it in parallel, one with openmp and one with MPI.
 
-  # Input: table of 13 cities and traveling costs, seperated by space
+# Input: table of 13 cities and traveling costs, seperated by space
 
   {% highlight c %}
   13 A B C D E F G H I J K L M 
@@ -30,11 +30,11 @@ image:
 
   {% endhighlight %}
 
-  ##OpenMP version
+## OpenMP version
 
   {% highlight c %}
 
-  #include <stdlib.h>
+#include <stdlib.h>
 #include <stdio.h>
 #include <iostream>
 #include <algorithm>
@@ -302,7 +302,8 @@ int main ()
 
   {% endhighlight %}
 
-## the MPI version is slitly different since the threads are all seperate
+## MPI Version
+#### the MPI version is slitly different since the threads are all seperate
   I am only posting the different part in *main()*, in which one thread has to gather the results of 
   other threads and find the best route among them.
 

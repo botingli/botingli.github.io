@@ -13,7 +13,7 @@ I am practicing for the ACM contest next month. Some of the problems are real tr
 is a problem of 8.2 difficulty rating. But even for the comparatively simple problem, there are some elegent 
 solutions instead of brute force.
 
-# My sample java solution for the amalgamated problem
+### My sample java solution for the amalgamated problem
 
 The input will be contants for a function. and the last input is number of auto-incremented x values.
 
