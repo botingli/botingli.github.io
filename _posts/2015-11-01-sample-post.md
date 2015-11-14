@@ -5,7 +5,7 @@ description: "parallel computing project"
 modified: 2015-11-01
 tags: [C, Parallel Computing, Code, Class]
 image:
-  background: darkGray.jpg
+  background: grey.jpg
 ---
   I am learning parallel computing this semester, and my project is to find the optimal folution of travelling 
   salesman problem in parallel. Since it is a NP problem, improving the efficiency in algorithm will be extremely hard. In order to increase the performance, we make the computations in parallel. I will demonstrate two ways to implement it in parallel, one with openmp and one with MPI.
