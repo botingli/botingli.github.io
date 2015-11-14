@@ -1,7 +1,8 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: My Github Link
+  url: https://github.com/botingli
 
-- title: External Link
-  url: http://mademistakes.com
+- title: Photo Blog
+  url: http://botingl.lofter.com/
+
