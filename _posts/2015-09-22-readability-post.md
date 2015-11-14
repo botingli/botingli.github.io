@@ -4,7 +4,7 @@ title: " Do things With Only Bitwise Operations"
 description: "Learning to make operations, decision calls with only bitwise operations"
 tags: [C, Code, Computer Organization, Class]
 image:
-  feature: abstract-1231.jpg
+  feature: abstract-8.jpg
   credit: dargadgetz
   background: grey.jpg
 ---
