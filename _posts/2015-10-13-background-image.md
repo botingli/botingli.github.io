@@ -6,14 +6,14 @@ tags: [Java, Code, ACM]
 image:
   feature: abstract-3.jpg
   credit: dargadgetz
-  background: grayCanvas.jpg
+  background: grey.jpg
 ---
 
 I am practicing for the ACM contest next month. Some of the problems are real tricky. My best record so far 
 is a problem of 8.2 difficulty rating. But even for the comparatively simple problem, there are some elegent 
 solutions instead of brute force.
 
-#This is my sample solution for the amalgamated problem, written in Java
+# My sample java solution for the amalgamated problem
 
 The input will be contants for a function. and the last input is number of auto-incremented x values.
 

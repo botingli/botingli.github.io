@@ -5,7 +5,7 @@ description: "my first Post"
 modified: 2015-9-1
 tags: [post, picture]
 image:
-  feature: abstract-3.jpg
+  feature: abstract-2.jpg
   background: grayCanvas.jpg
 ---
 
@@ -15,6 +15,7 @@ I spend a lot of time research, build, and custom this site, which is based on t
 Differnent from using blogs provided by other companies, I have absolute freedom here.
 
 I will update this as a programming blog, and write :
+
 *Things I learned in class
 *Projects I have done. Alone or with others.
 *Other cool things I find.
