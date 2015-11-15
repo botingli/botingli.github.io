@@ -5,6 +5,7 @@ description: "parallel computing project"
 modified: 2015-11-01
 tags: [C, Parallel Computing, Code, Class]
 image:
+  feature: abstract-1231.jpg
   background: witewall_3.png
 ---
   I am learning parallel computing this semester, and my project is to find the optimal folution of travelling 

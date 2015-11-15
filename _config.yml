@@ -16,14 +16,14 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:  https://github.com/botingli       
+  github:  botingli       
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +Boting
+  google_plus:  
 
 # Background image to be tiled on all pages
 background: witewall_3.png
